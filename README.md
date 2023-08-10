@@ -26,9 +26,6 @@ aprendendo todo dia algo novo<br>
 )
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 )
-<div>
-  <img src="">
-</div>
 ## O que eu Utilizo para Design:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 )
