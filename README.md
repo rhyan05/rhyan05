@@ -30,6 +30,7 @@
   <h2>📊 Estatísticas</h2>
   <a href="https://github.com/rhyan05">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhyan05&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+        &nbsp;&nbsp;&nbsp;
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyan05&layout=compact&langs_count=7&theme=radical" />
   </a>
 </div>
