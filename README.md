@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rhyan-lemos-silveira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NTIgMy4zNy0xLjg1MiAzLjYwNSAwIDQuMjY3IDIuMzcyIDQuMjY3IDUuNDU1djYuMjg4ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDExMC00LjEyNCAyLjA2MiAyLjA2MiAwIDAxMCA0LjEyNHpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI2Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTRDMjMuMjA4IDI0IDI0IDIzLjIyNiAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yMDggMCAyMi4yMjUgMHoiLz48L3N2Zz4=" />
   </a>
   <a href="mailto:rhyanlemos05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
